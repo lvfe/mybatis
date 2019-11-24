@@ -1,0 +1,6 @@
+com\test\App.class
+com\test\CatController.class
+com\test\CatService.class
+com\test\Cat.class
+com\test\CatMapper.class
+com\test\config\PageConfig.class
